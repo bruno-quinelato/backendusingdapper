@@ -1,0 +1,15 @@
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\bin\Debug\Repository.dll
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\bin\Debug\Repository.pdb
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\bin\Debug\Dapper.dll
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\bin\Debug\Dapper.FluentMap.dll
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\bin\Debug\Dapper.FluentMap.Dommel.dll
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\bin\Debug\Domain.dll
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\bin\Debug\Dommel.dll
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\bin\Debug\Domain.pdb
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\bin\Debug\Dapper.xml
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\bin\Debug\Dapper.FluentMap.xml
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\bin\Debug\Dapper.FluentMap.Dommel.xml
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\bin\Debug\Dommel.xml
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\obj\Debug\Repository.dll
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Repository\obj\Debug\Repository.pdb

@@ -1,0 +1,4 @@
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Domain\bin\Debug\Domain.dll
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Domain\bin\Debug\Domain.pdb
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Domain\obj\Debug\Domain.dll
+C:\Users\bruno.quinelato\Desktop\Projetos\BackendUsingDapper\backendusingdapper\Domain\obj\Debug\Domain.pdb
